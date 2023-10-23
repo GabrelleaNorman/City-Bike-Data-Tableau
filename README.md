@@ -57,3 +57,5 @@ Create a Tableau story that brings together the visualizations, requested maps, 
 
 Ensure your presentation is professional, logical, and visually appealing.
 
+Link to Tableau Public https://public.tableau.com/shared/4DBMS77Z3?:display_count=n&:origin=viz_share_link 
+
